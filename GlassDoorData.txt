@@ -1,0 +1,249 @@
+#1Data Scientist
+$108,000
+4.3/5
+6,510
+
+#2Nursing Manager
+$83,000
+4/5
+13,931
+
+#3Marketing Manager
+$82,000
+4.2/5
+7,395
+
+#4Occupational Therapist
+$74,000
+4/5
+17,701
+
+#5Product Manager
+$115,000
+3.8/5
+11,884
+
+#6Devops Engineer
+$106,000
+4.1/5
+4,657
+
+#7Program Manager
+$87,000
+3.9/5
+14,753
+
+#8Data Engineer
+$100,000
+3.9/5
+4,739
+
+#9HR Manager
+$85,000
+4.2/5
+3,908
+
+#10Software Engineer
+$104,000
+3.6/5
+49,007
+
+#11Mechanical Engineer
+$75,000
+3.9/5
+5,949
+
+#12Physician Assistant
+$105,000
+3.7/5
+9,819
+
+#13Sales Manager
+$65,000
+3.8/5
+21,695
+
+#14Sales Engineer
+$90,000
+4.1/5
+3,145
+
+#15Operations Manager
+$68,000
+3.8/5
+18,311
+
+#16Strategy Manager
+$140,000
+4/5
+2,783
+
+#17Security Engineer
+$102,000
+3.8/5
+4,683
+
+#18Construction Manager
+$75,000
+4.3/5
+3,334
+
+#19Speech Language Pathologist
+$72,000
+3.7/5
+29,467
+
+#20Project Manager
+$75,000
+3.6/5
+30,107
+
+#21Product Designer
+$100,000
+4.5/5
+2,158
+
+#22Java Developer
+$85,000
+3.7/5
+6,636
+
+#23Executive Assistant
+$60,000
+4.1/5
+4,858
+
+#24Electrical Engineer
+$77,000
+3.7/5
+7,191
+
+#25Finance Manager
+$118,000
+3.8/5
+3,747
+
+#26Business Analyst
+$72,000
+3.7/5
+13,340
+
+#27Solutions Architect
+$127,900
+3.6/5
+6,969
+
+#28Recruiter
+$48,000
+4.1/5
+9,782
+
+#29Business Development Manager
+$80,000
+3.7/5
+6,348
+
+#30Dental Hygienist
+$67,250
+4.5/5
+2,805
+
+#31Data Analyst
+$60,000
+3.9/5
+5,456
+
+#32Nurse Practitioner
+$102,000
+3.5/5
+18,997
+
+#33Applications Engineer
+$77,000
+4/5
+2,591
+
+#34QA Manager
+$91,250
+4.1/5
+1,923
+
+#35Risk Manager
+$100,500
+3.7/5
+3,924
+
+#36Communications Manager
+$80,000
+4.2/5
+2,009
+
+#37Physical Therapist
+$70,000
+3.6/5
+34,899
+
+#38Facilities Manager
+$65,000
+4/5
+3,472
+
+#39Systems Engineer
+$90,000
+3.5/5
+16,793
+
+#40Customer Success Manager
+$65,000
+4.2/5
+2,601
+
+#41Radiologic Technologist
+$48,000
+4/5
+6,115
+
+#42Restaurant Manager
+$49,000
+3.8/5
+21,754
+
+#43Software Engineering Manager
+$153,000
+4/5
+1,445
+
+#44Software Developer
+$80,000
+3.5/5
+11,833
+
+#45Safety Manager
+$71,000
+4.1/5
+2,180
+
+#46UX Designer
+$89,000
+3.7/5
+3,333
+
+#47Office Manager
+$42,000
+3.9/5
+18,681
+
+#48Brand Manager
+$85,000
+4.3/5
+1,500
+
+#49Software Development Manager
+$140,000
+4.2/5
+1,178
+
+#50Systems Administrator
+$68,000
+3.6/5
+8,278
